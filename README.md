@@ -1,22 +1,26 @@
-# led_strip_controller
+# SE 101 Project- LED Music Visualizer + App
 
-(This app is made for SE 101 final project.)
+Codebase for the LED Music Visualizer project, consisting of the flutter app and the Arduino code. The bluetooth-connected app provides an interface for the user to select from 3 presets and 12 colours for the LED strip to display. The reactive preset allows for the user to slect from 7 audio frequency bands for the LED strip to react to based on music connected via aux cord to the Arduino Uno.
 
-led_strip_controller is a Flutter app that changes the presets of a LED light strip via bluetooth. The led strip itself 
-is connected to an Arduino Uno board and the signal transimission between the board and the app is handled by a bluetooth
-module.
+## Main Hardware Components
 
-## Functionalities:
+- Arduino Uno
+- Sparkfun Spectrum Shield
+- Individually Adressable LED Strip
+- Bluetooth Module
+
+## Main Software Components
+
+- .ino Arduino code
+- Cross-platform Flutter controller app using the flutter_blue plugin (https://pub.dev/packages/flutter_blue)
+
+## App Functionalities:
 
 - Change the brightness of the led strip
 - Change the pattern of the light
 - Change the frequencies of which the led strip responds to
 - Change the colour of the light
 
-## Contributors
+## Contributors:
 
-Ximing Yang, Hanan Au
-
-## Package used
-
-Flutter_Blue
+Uzair Ahmad, Dimitar Atanassov, Hanan Au, Jui Shah, Ximing Yang
