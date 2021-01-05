@@ -13,6 +13,7 @@ Codebase for the LED Music Visualizer project, consisting of the flutter app and
 
 - .ino Arduino code
 - Cross-platform Flutter controller app using the flutter_blue plugin (https://pub.dev/packages/flutter_blue)
+![picture](screenshots/appMainPage.png)
 
 ## App Functionalities:
 
