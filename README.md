@@ -4,7 +4,7 @@ Codebase for the LED Music Visualizer project, consisting of the flutter app and
 ## Music Visualizer DEMO
 https://www.youtube.com/watch?v=gql5rh0lM1U
 <ul> 
-  <h2>Timestamps:</h2>
+  <h3>Timestamps:</h3>
   <li>1:00 ~ Spiral Preset</li>
   <li>1:45 ~ Rainbow Preset</li>
   <li>2:22 ~ React Preset (Music Visualizing Feature) </li>
