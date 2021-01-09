@@ -3,8 +3,8 @@
 Codebase for the LED Music Visualizer project, consisting of the flutter app and the Arduino code. The bluetooth-connected app provides an interface for the user to select from 3 presets and 12 colours for the LED strip to display. The reactive preset allows for the user to select from 7 audio frequency bands for the LED strip to react to based on music connected via aux cord to the Arduino Uno.
 ## Music Visualizer DEMO
 https://www.youtube.com/watch?v=gql5rh0lM1U
-<ul> 
-  <h3>Timestamps:</h3>
+<h3>Timestamps:</h3>
+<ul>
   <li>1:00 ~ Spiral Preset</li>
   <li>1:45 ~ Rainbow Preset</li>
   <li>2:22 ~ React Preset (Music Visualizing Feature) </li>
