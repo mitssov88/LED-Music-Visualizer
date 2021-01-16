@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=gql5rh0lM1U
 
 - Arduino Uno
 - Sparkfun Spectrum Shield
-- Individually Adressable LED Strip
+- Individually Addressable LED Strip
 - Bluetooth Module
 
 ## Main Software Components
